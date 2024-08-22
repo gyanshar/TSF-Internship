@@ -15,9 +15,15 @@ DATASET: [Iris Dataset](https://bit.ly/3kXTdox) <br>
 ALGORITHM: K Means Clustering <br>
 
 
+## Task - 4: EDA on Terrorism dataset
+
+AIM: To do exploratory data analysis on global terrorism dataset <br>
+DATASET: [https://bit.ly/2TK5Xn5](https://bit.ly/2TK5Xn5) <br>
+
+
 ## Task - 6: Prediction using Decision Tree Algorithm
 
 AIM: To create a decision tree classifier and visualize it <br>
 DATASET: [Iris Dataset](https://bit.ly/3kXTdox) <br>
-ALGORITHM: Simple Linear Regression <br>
+ALGORITHM: Decision Tree Classifier <br>
 ACCURACY SCORE: 100% <br>
